@@ -12,4 +12,4 @@ I used the toolhead from https://github.com/Armchair-Heavy-Industries/Xol-Toolhe
 XOL-Toolhead because it is known and used a lot already and its only 7 easy screws, making the toolheads both stable and easy to replace.
 
 ## Usage of AI
-I used AI for research, part comparisons, picking of some of the parts.
+I used AI for research, part comparisons, picking of some of the parts and verifying that I didn't do any mistakes.
