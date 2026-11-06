@@ -1,14 +1,14 @@
 Qty,Product,Link
-3,3030 Extrusion 330mm ,Alu-Konstruktionsprofile / Nut 8 / 30x30 / Serie 6 von MISUMI | MISUMI 
-4,3030 Extrusion 550mm,Alu-Konstruktionsprofile / Nut 8 / 30x30 / Serie 6 von MISUMI | MISUMI 
+3,3030 Extrusion 330mm ,https://de.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFS6-3030-330
+4,3030 Extrusion 550mm,https://de.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFS6-3030-550
 5,3030 Extrusion 380mm,https://de.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFS6-3030-380
 6,3030 Extrusion 360mm ,https://de.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFS6-3030-360
 29,Misumi Corner Brackets,https://de.misumi-ec.com/vona2/detail/110300442340/?HissuCode=HBLFSN6
 2,1515 Extrusion 235mm,https://de.misumi-ec.com/vona2/detail/110300465870/?HissuCode=HFS3-1515-235
-2,1515 Extrusion 260mm,"Alu-Konstruktionsprofile / Serie 3, HFS□-□, KHFS□-□ / Aluminium extrudiert / eloxiert / 15x15 / Nut 3,4 von MISUMI | MISUMI "
+2,1515 Extrusion 260mm,https://de.misumi-ec.com/vona2/detail/110300465870/?HissuCode=HFS3-1515-260
 4,1515 Corner bracket,https://de.misumi-ec.com/vona2/detail/110302755570/?HissuCode=HBLTBS3
-1,1515 Extrusion 360mm,"Alu-Konstruktionsprofile / Serie 3, HFS□-□, KHFS□-□ / Aluminium extrudiert / eloxiert / 15x15 / Nut 3,4 von MISUMI | MISUMI "
-30,Hex nut M3,"Sechskantmuttern DIN 934, Edelstahl (07210) von NORELEM | MISUMI "
+1,1515 Extrusion 360mm,https://de.misumi-ec.com/vona2/detail/110300465870/?HissuCode=HFS3-1515-360
+30,Hex nut M3,https://de.misumi-ec.com/vona2/detail/221304346308/
 60,3030 M3 T-nut,https://de.aliexpress.com/item/4000293743251.html
 10,3030 M5 T-nut,https://de.aliexpress.com/item/4000293743251.html
 160,3030 M6 T-nut,https://de.aliexpress.com/item/4000293743251.html
@@ -55,8 +55,8 @@ Qty,Product,Link
 1,Hex M4 nut 55pcs,https://de.aliexpress.com/item/1005004546465234.html
 1,Hex M5 nut 50pcs,https://de.aliexpress.com/item/1005004546465234.html
 1,1250pcs washer kit,https://de.aliexpress.com/item/1005010399605767.html
-2,MT-1704HSM168RE Stepper Motor 48x27,"DOLD Mechatronik | High Torque Motor, 25,88 € "
-3,MT-1703HSM168RE Stepper Motor 40x27,"Compact but Powerful Motor, 21,90 € "
+2,MT-1704HSM168RE Stepper Motor 48x27,https://www.dold-mechatronik.de/High-Torque-Motor
+3,MT-1703HSM168RE Stepper Motor 40x27,https://www.dold-mechatronik.de/Compact-but-Powerful-Motor
 1,FYSETC Spider V3.0,https://de.aliexpress.com/item/1005009446832407.html
 6,TMC2209,https://de.aliexpress.com/item/1005009730682053.html
 1,Sherpa Mini with Motor,https://de.aliexpress.com/item/1005005621749165.html
@@ -69,9 +69,9 @@ Qty,Product,Link
 2,4010 Hydraulic Blower Fan 24v,https://de.aliexpress.com/item/1005012108224237.html
 1,2510 axial sleeve fan 24v JST XH2.54,https://de.aliexpress.com/item/1005011922555675.html
 1,JST-GH 4-pin to 4-pin cable 80cm,https://www.uav-dev.com/en/shop/dronecan-cable-13
-1,Euclid Klicky Probe Z Axis PCB Endstop Sensor,Euclid Klicky Probe Z Axis PCB Endstop Sensor 
+1,Euclid Klicky Probe Z Axis PCB Endstop Sensor,https://www.trianglelab.net/products/euclid-klicky-probe-z-axis-pcb-endstop-sensor
 1,"ADXL345 (needed once, can be returned later)",https://de.aliexpress.com/item/1005009580094876.html
-1,XoL Carriage Tube & Pin,XoL Carriage Tube & Pin | RT10212 
+1,XoL Carriage Tube & Pin,https://www.replimat.eu/xol-carriage-tube-pin/rt10212
 1,3x80 Cable Ties with 1.8mm 100pcs,https://www.aliexpress.com/ssr/300000512/BundleDealsDutyCovered?productIds=1005009817170861:12000050270591771
 1,Short PTFE Tube (or cut small part from big),https://www.ebay.de/itm/274618811724
 5,MGN12H 300mm,https://de.aliexpress.com/item/1000007480470.html
@@ -89,17 +89,17 @@ Qty,Product,Link
 2,MR115ZZ 10pcss,https://de.aliexpress.com/item/1005007548922398.html
 1,6mm/M3 x 16mm length shaft/dowel pin,https://de.aliexpress.com/item/1005003326358562.html
 2,Hook spring 0.5x4x20mm 10pcs,https://de.aliexpress.com/item/1005003497741564.html
-3,Diameter 5mm x 65mm length shaft or dowel pin,Zylinderstift ISO 2338 5x65 mm Edelstahl A2 – Normquelle 
+3,Diameter 5mm x 65mm length shaft or dowel pin,https://normquelle.de/products/zylinderstift-iso-2338-d5-x-65-mm-edelstahl-a2
 3,10mm M4 threaded ball 20pcs,https://de.aliexpress.com/item/1005006656882057.html
 1,6x3mmm round(disk) magnet 100pcs,https://de.aliexpress.com/item/1005010522665223.html
 1,Prusa MK3 spring steel PEI sheet,https://de.aliexpress.com/item/1005007401799734.html
 1,Prusa MK3 magnet sheet,https://de.aliexpress.com/item/1005005912928548.html
-1,254x242 aluminum plate 6mm Thick,Aluminium Platte 6 mm 
+1,254x242 aluminum plate 6mm Thick,https://metallstore24.de/en/aluminium-plate-6-mm
 4,DIN rail 4cm,https://de.aliexpress.com/item/1005011617942423.html
 1,19x5x1.5mm Block magnet 5pcs,https://de.aliexpress.com/item/1005013338624462.html
 1,Foam tape 5mmx1mm 10m,https://www.aliexpress.com/ssr/300000512/BundleDealsDutyCovered?productIds=1005005842861371:12000034545316600
 1,F623 bearing 10pcs,https://de.aliexpress.com/item/4000350602901.html
-2,"E3D 1.75mm collet (optional, recommended)",Collet Clips 1.75mm – E3D 
+2,"E3D 1.75mm collet (optional, recommended)",https://e3d-online.com/products/collet-clips-pack-of-2
 1,50m 22AWG Wire,https://de.aliexpress.com/item/1005013190163766.html
 1,5m 18AWG Wire,https://de.aliexpress.com/item/1005013190163766.html
 1,10m 16AWG Wire,https://de.aliexpress.com/item/1005013190163766.html
