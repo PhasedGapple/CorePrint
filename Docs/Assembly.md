@@ -11,5 +11,5 @@ Current Printed Files for Toolhead:
 - https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/blob/main/STL/Faceplate/Faceplate.stl
 - https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/blob/main/STL/EBB%20Mounts/EBB36%20Mount%20-%20Sherpa-Mini%20[strain%20relief].stl
 - https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/blob/main/STL/Faceplate/[a]_M2.5_saver_x4.stl
-If you decide to use another extruder or hotend, check out https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/blob/main/docs/printing.md
+### If you decide to use another extruder or hotend, check out https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/blob/main/docs/printing.md
 > After I build the printer, I will also make an assembly guide.
