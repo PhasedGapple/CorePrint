@@ -5,7 +5,7 @@ A Klipper CoreXY printer - for a good 3D printing experience at the start, then 
 <img width="1920" height="1080" alt="wiring-schematic" src="https://github.com/user-attachments/assets/cbfcec57-0ef0-4ba5-a7c4-3c6afd4064a0" />
 
 ## Why?
-My old i3 Mega Printer breaks everytime I fix it. I can't afford to keep repairing those old parts so I thought of a CoreXY printer with a Print Head Swapper which is quick.
+My old i3 Mega Printer breaks everytime I fix it. I can't afford to keep repairing those old parts so I thought of a CoreXY printer with newer parts.
 
 ## Inspiration
 I took the frame of the https://github.com/SnakeOilXY/SnakeOil-XY because it is similar to most other 3D printer frames and is pretty good in my opinion. The only difference between this frame from other frames is how the Z counterweight is built.
