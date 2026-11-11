@@ -23,3 +23,8 @@ XOL-Toolhead because it is known and used a lot already and its only 7 easy scre
 I am using sensorless homing for the X and Y axis. They are reliable enough and for Z I will be using a Klicky PCB Z Probe.
 ## Usage of AI
 I used AI for research, part comparisons, picking of some of the parts and verifying that I didn't do any mistakes.
+
+## To-Do
+- Make a 3D render
+- Design more Toolheads
+- Make it play doom
