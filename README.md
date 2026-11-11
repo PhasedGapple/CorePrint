@@ -5,7 +5,7 @@ A Klipper CoreXY printer - for a good 3D printing experience at the start, then 
 - Automatic Bed Leveling
 - Printing at speeds of 300mm/s (max stable speeds are unknown)
 - Input Shaping to reduce ringing and make higher printing speeds possible
-- Klipper Firmware
+- Klipper Firmware support
 ## Wiring Schematic
 <img width="1920" height="1080" alt="wiring-schematic" src="https://github.com/user-attachments/assets/cbfcec57-0ef0-4ba5-a7c4-3c6afd4064a0" />
 
